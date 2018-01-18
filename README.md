@@ -7,7 +7,7 @@ I build this for an minimal user internal facing application to read data from a
 This package is by no means complete.
 Please do a pull request to add more functionality.
 
-#Setup
+## Setup
 `git clone github.com/s41nn0n/oDBRestify.git; cd oDBRestify; npm install`
 
 Follow:
@@ -17,29 +17,30 @@ Follow:
 
 `npm start`
 
-# TODO
-. SECURITY
-. GET
-. PUT
-. DELETE
-. UPDATE
-. OpenAPI
-. Cache
-. Code Standard
-. Dockerize
-. Testing Scripts
+## TODO
 
-# Security
-. Auth
-. Database Restrictions
-. Request Limitations
+- [ ] SECURITY
+- [ ] GET
+- [ ] PUT
+- [ ] DELETE
+- [ ] UPDATE
+- [ ] OpenAPI
+- [ ] Cache
+- [ ] Code Standard
+- [ ] Dockerize
+- [ ] Testing Scripts
+
+## Security
+- [ ] Auth
+- [ ] Database Restrictions
+- [ ] Request Limitations
 
 I was thinking that we could leave some of the auth to other applications.
 
 ## Resources & Attributions
-. (nodejs)[https://nodejs.org/]
-. (Express)[https://expressjs.com/]
-. (oracle/node-oracledb)[https://github.com/oracle/node-oracledb]
+- [nodejs](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [oracle/node-oracledb](https://github.com/oracle/node-oracledb)
 
 ## Testing
 I have tested this on Ubuntu Ubuntu 17.04
